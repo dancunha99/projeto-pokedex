@@ -11,6 +11,10 @@ body {
     color: #2c2c2c;
 }
 
+body.modo-escuro {
+	background-color: #2d283b;
+	color: #2c2c2c;}
+
 header {
     margin: auto;
     display: flex;
